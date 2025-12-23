@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "da32088d-b451-4753-967c-22cb194efaed",
+		"name": "Expense Sharing API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44428292",
+		"_collection_link": "https://murali-1065129.postman.co/workspace/murali's-Workspace~f4c88adb-b8c1-4781-8e33-6240ff249aa9/collection/44428292-da32088d-b451-4753-967c-22cb194efaed?action=share&source=collection_link&creator=44428292"
+	},
+	"item": [
+		{
+			"name": "Add Expense",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "View Balances",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "User Balance",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
